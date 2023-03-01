@@ -1,7 +1,7 @@
 # ElectricSafetyInterlock (ESI)
 Schematics, pictures, parts list and documents for an electric safety interlock (ESI). 
 
-## disclaimer
+## Disclaimer
 While this particular safety interlock design and execution has been approved by our local electronics department, rules and regulations in your area might differ. The functionality and reliability is also dependent on the build quality. The original designers hold no responsibility or liability for (modified) copies built elsewhere. Use at your own risk.
 
 ## General aim
@@ -13,7 +13,7 @@ The initial application is to interrupt power to a 220V, 250W heating cartridge 
 
 The external circuit can be modified to use different interlock mechanisms as needed. Note that the external interlock circuit is only a single circuit and thus is not protected against external shorts. 
 
-## lights and indicators
+## lights and indicators during operation
 The green signal lamp indicates that the ESI is operational. 
 
 The orange signal lamp indicates that the output is active (safety circuit closed, relays on, 230V supplied).

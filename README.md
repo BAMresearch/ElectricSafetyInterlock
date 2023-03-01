@@ -18,6 +18,6 @@ The green signal lamp indicates that the ESI is operational.
 
 The orange signal lamp indicates that the output is active (safety circuit closed, relays on, 230V supplied).
 
-An extra warning light (red) is connected in such a way that, if one of the relays is welded closed and thus the relays are in an unequal state, the RED signal lamp lights up. When this happens, the relays need to be replaced. 
+An extra warning light (red) is connected in such a way that, if one of the relays is welded closed and thus the relays are in an unequal state, and if 230V is supplied on the interlocked circuit, the RED signal lamp lights up. When this happens, the relays need to be replaced. 
 
 The power switch (red) at the back of the device indicates that power is supplied to the 24V side of the circuit. 

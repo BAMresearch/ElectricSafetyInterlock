@@ -21,7 +21,7 @@ Pin 4 (Black): 0V for power supply
 
 The safety is interlocked (output active) when both signal pins are set high (24V), with sufficient current to activate the two relays. Pin 1 and 4 can be used to power safety hardware (such as light curtains or proximity detectors) with 24VDC up to a current of 0.6A. A larger power supply can be installed when higher currents are needed, while staying within the current limits imposed by the wiring cross-section. 
 
-## lights and indicators during operation
+## Lights and indicators during operation
 The green signal lamp indicates that the ESI is operational. 
 
 The orange signal lamp indicates that the output is active (safety circuit closed, relays on, 230V supplied).
